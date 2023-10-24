@@ -6,6 +6,7 @@
 - **<"big"></"big">**: Make the word smaller.
 - **<"hr">**: Simply creating a horizontal line in width.
 - **<"sub"></"sub">**: For set a word/character slightly below then others.
+- **<"sup"></"sup">**: For set a word/character slightly upper then others.
 - **<"pre"></"pre">**: It'll show the exact text as we give. 
 
 

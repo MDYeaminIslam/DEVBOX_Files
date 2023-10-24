@@ -8,9 +8,9 @@
 - **<img src='' alt''>**: For showing images in the website.
 - **<br>**: "<"br">" Line break. Skip the "".
 - **ctrl + /**: ShortCut for comment.
-- **<i></i>**: make the word italic.
-- **<b></b>**: make the word bold.
-- **<u></u>**: make the word underlined.
+- **"<"i"><"/i">"**: make the word italic.When use this simply remove this "".
+- **<"b"><"/b">**: make the word bold.When use this simply remove this "".
+- **<"u"><"/u">**: make the word underlined.When use this simply remove this "".
 
 ## HTML
 
