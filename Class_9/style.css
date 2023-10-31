@@ -1,0 +1,19 @@
+body{
+  /* background-image: url("Yeamin.jpg");
+  background-repeat: no-repeat; */
+  /* background-position: bottom right; */
+  /* background-attachement: fixed; */
+  background: url("Yeamin.jpg") no-repeat top center fixed;
+}
+
+h1{
+  color: tomato;
+}
+
+#para{
+  color: green;
+}
+
+.second_heading{
+  color: blue;
+}
