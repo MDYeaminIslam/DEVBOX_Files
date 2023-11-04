@@ -1,0 +1,20 @@
+h1{
+  border: solid 5px red;
+  border-radius: 10px;
+}
+
+.firstBox{
+  background-color: blue;
+  width: 600px;
+  height: 200px;
+}
+
+#innerBox{
+  background-color: green;
+  margin: 5px;
+}
+
+#innerBox4{
+  background-color: green;
+  margin-bottom: 5px;
+}

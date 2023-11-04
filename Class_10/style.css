@@ -1,0 +1,28 @@
+
+/* h2{
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(250, 100, 255);
+} */
+
+/* 0-255 - red
+0-255 - green
+0-255 - blue */
+
+/* border shorthand */
+/* h2{
+  border: solid 10px rgb(250, 100, 255);
+} */
+
+//Accessing different parts of the border
+/* h2{
+  border-top: solid 5px red;
+  border-right: solid 5px green;
+  border-left: solid 5px yellow;
+  border-bottom: solid 5px blue;
+
+} */
+
+h1{
+  border: solid 5px red;
+}
